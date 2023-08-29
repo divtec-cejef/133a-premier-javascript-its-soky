@@ -7,5 +7,5 @@
 "use strict";
 
 //Récuperer tous les paragraphes du document et affiche le contenu de la variable
-let paraph = document.querySelector("button");
+let paraph = document.querySelector("button.ajouter");
 console.log(paraph);
