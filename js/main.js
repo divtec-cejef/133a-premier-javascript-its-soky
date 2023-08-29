@@ -6,9 +6,6 @@
  */
 "use strict";
 
-// Récuperer tous les paragraphes du document
-document.querySelector("button");
-
-//affiche le contenu de la variable
-let paraph = document.querySelectorAll("p");
+//Récuperer tous les paragraphes du document et affiche le contenu de la variable
+let paraph = document.querySelector("button");
 console.log(paraph);
