@@ -4,7 +4,11 @@
  * @version 0.0.1
  * @since 29.08.2023
  */
-'use strict';
+"use strict";
 
-let msg = "Hello... THE WORLD!!!!"
-console.log(msg);
+// Récuperer tous les paragraphes du document
+document.querySelector("button");
+
+//affiche le contenu de la variable
+let paraph = document.querySelectorAll("p");
+console.log(paraph);
